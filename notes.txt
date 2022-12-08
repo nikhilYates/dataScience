@@ -1,6 +1,10 @@
 Key points:
 
+IMPORTANT PLOTS:
+
 - Boxplot: used to visually represent the outlier, maximum, quartiles and minimum of data sets (i.e., in charts)
+
+STATISTICS:
 
 - inferential statistics: getting information from a sample that can be applied to the population
 
@@ -21,3 +25,43 @@ Key points:
 	- Accuracy
 	- Availability
 	- Timeliness
+
+- Correlation:
+	- Statistically Correlated: when x changes, y changes 
+		- Strength of correlation: coefficient -> to calculate: r = SUM((x - xbar) * (y - ybar)) / ((num observations - 1) * stdDev(x) * stdDev(y))
+		- r ranges from -1 < r < 1 (strong negative correlation to strong positive correlation)
+
+		- direction of correlation: sign of the correlation
+
+- Covariance: 
+	- non-standardized
+	- equation represents variance of X with respect to Y
+	- does NOT tell us the strength of the relationship (that is what Correlation does)
+	- This will help us determine the sign of the relationship (+/-)
+
+	- Covariance matrix: compare each variable covariance:
+		- i.e., for 2 variables X, Y: covariance(x, x), covariance(x, y), covariance(y, x), covariance(y, y)
+			- covariance(x, x) = variance(x)
+			- covariance(y, y) = variance(y)
+	
+	- Covariance applications:
+		- Use covariance matrix as transformation matrix to determine eigenvalues and eigenvectors
+		- financial portfolio management
+			- i.e., giving us a group of stocks to invest in for a positive return
+
+DISTRIBUTIONS
+
+	- math function that shows us how probable an occurrence of difference outcomes is in an experiment
+	- normal distribution: measure of variance of a set of values from some mean point
+	- mean = median = mode
+	- standard deviation defines the width of the graph
+	- total area under the curve = 1
+
+	- Z-Score:
+		- probability-density function of 'z'
+		- z = (x - mu) / sigma
+
+	- Importance:
+		- standardization
+		- calculate probability within normal distribution
+	
