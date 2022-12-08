@@ -1,0 +1,23 @@
+Key points:
+
+- Boxplot: used to visually represent the outlier, maximum, quartiles and minimum of data sets (i.e., in charts)
+
+- inferential statistics: getting information from a sample that can be applied to the population
+
+- Simple random sampling: probability based, where every record/item has an equal chance of being picked up and is done without replacement
+
+- Stratified sampling: records are divided based on 'Strata', records are chosen in equal proportions of Strata
+
+- mean: x(bar)
+- Standard Deviation: S
+- Variance: S^2
+
+- chose sample data that best represents population data parameters (sampling bias)
+- Sampling Bias : sample whose members of the intended population are less likely to be included than others
+
+- when choosing samples: 
+	- Completeness
+	- Validity
+	- Accuracy
+	- Availability
+	- Timeliness
