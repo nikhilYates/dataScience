@@ -64,4 +64,12 @@ DISTRIBUTIONS
 	- Importance:
 		- standardization
 		- calculate probability within normal distribution
+
+
+CENTRAL LIMIT THEOREM
+	-  the mean of samples tend to show a normal distribution
+	- importance
+		- very easy to draw conclusions
+		
+
 	
