@@ -70,6 +70,18 @@ CENTRAL LIMIT THEOREM
 	-  the mean of samples tend to show a normal distribution
 	- importance
 		- very easy to draw conclusions
-		
+
+
+CONFIDENCE INTERVALS
+- point estimates give us the best guess (a single value) over some population parameter
+- interval estimates give us the best interval guess over some population parameter
+- standard error is the standard deviation of the sampling distr of the mean of all samples
+- confidence interval = point estimate +/- reliability * std err
+
+NULL VS ALTERNATE HYPOTHESIS
+- no change from stated facts
+- original hypothesis is incorrect
+
+
 
 	
